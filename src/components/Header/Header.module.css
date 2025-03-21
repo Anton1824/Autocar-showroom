@@ -1,5 +1,5 @@
 .title {
-  background-color: rgb(255, 127, 170);
+  background-color: rgb(127, 255, 127);
   padding: 100px;
   &:hover {
     background-color: black;

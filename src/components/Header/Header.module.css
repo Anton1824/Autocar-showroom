@@ -1,5 +1,5 @@
 .title {
-  background-color: aquamarine;
+  background-color: rgb(255, 127, 170);
   padding: 100px;
   &:hover {
     background-color: black;
